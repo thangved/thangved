@@ -1,7 +1,5 @@
 # Kim Minh Thắng
 
-> Xin chào mọi người, mình là thắng đây!
->
-> Rất vui khi được mọi ghé thăm trang github của mình.
->
-> Đây sẽ là nơi mình chia sẻ những project từ học tập đến những sản phẩm của mình.
+![github-start](https://github-readme-stats.vercel.app/api?username=thangved&show_icons=true)
+
+![details](https://github-readme-stats.vercel.app/api/top-langs/?username=thangved&layout=compact)
