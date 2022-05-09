@@ -23,6 +23,7 @@
 - <img src="./assets/images/w5.svg" width="20"> [W5 Blog](https://blog.w5team.com)
 - <img src="./assets/images/w5.svg" width="20"> [W5 Blog](https://graph.w5team.com)
 - <img src="./assets/images/w5.svg" width="20"> [W5 Datastructure](https://ctdl.w5team.com)
+- <img src="./assets/images/w5.svg" width="20"> [W5 Docs (Building...)](https://docs.w5team.com)
 
 ## Connects
 
