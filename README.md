@@ -27,4 +27,4 @@
 ## Connects
 
 - <img src="./assets/images/fb.webp" width="20"> [Facebook/thangved](https://fb.com/thangved)
-- <img src="./assets/images/gmail.png" width="20"> [Mail/thangved02@gmail.com](mailto:thangved02@gmail.com)
+- <img src="./assets/images/gmail.png" width="20"> [Email: thangved02@gmail.com](mailto:thangved02@gmail.com)
