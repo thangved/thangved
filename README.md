@@ -10,11 +10,8 @@
 
 ## Used Languages
 
-- <img src="./assets/images/js.webp" width="20"> Javascript
-- <img src="./assets/images/ts.svg" width="20"> Typescript
-- <img src="./assets/images/nodejs.png" width="20"> Nodejs
-- <img src="./assets/images/react.png" width="20"> React
-- <img src="./assets/images/cpp.png" width="20"> C/C++
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thangved&langs_count=100)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## My Projects
 
