@@ -15,12 +15,11 @@
 
 ## My Projects
 
-- <img src="./assets/images/w5.svg" width="20"> [W5 Team - Learning Website](https://w5team.com)
-- <img src="./assets/images/w5.svg" width="20"> [W5 Tools](https://tools.w5team.com)
-- <img src="./assets/images/w5.svg" width="20"> [W5 Blog](https://blog.w5team.com)
-- <img src="./assets/images/w5.svg" width="20"> [W5 Blog](https://graph.w5team.com)
-- <img src="./assets/images/w5.svg" width="20"> [W5 Datastructure](https://ctdl.w5team.com)
-- <img src="./assets/images/w5.svg" width="20"> [W5 Docs (Building...)](https://docs.w5team.com)
+- [w5team](https://w5team.com)
+- [w5tools](https://tools.w5team.com)
+- [w5blog](https://blog.w5team.com)
+- [w5graph](https://graph.w5team.com)
+- [w5ctdl](https://ctdl.w5team.com)
 
 ## Connects
 
