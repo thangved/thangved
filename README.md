@@ -4,8 +4,6 @@
 
 ![view](https://komarev.com/ghpvc/?username=thangved)
 
-![https://github-profile-trophy.vercel.app/?username=thangved&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=thangved&theme=gruvbox)
-
 ![github-start](https://github-readme-stats.vercel.app/api?username=thangved&count_private=true&show_icons=true)
 
 ## Used Languages
@@ -40,3 +38,5 @@
 [![thangved02](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thangved02@gmail.com)
 [![thangved](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thangved)
 [![thangved](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thangved)
+
+![https://github-profile-trophy.vercel.app/?username=thangved&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=thangved&theme=gruvbox)
