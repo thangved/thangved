@@ -6,8 +6,6 @@
 
 ![github-start](https://github-readme-stats.vercel.app/api?username=thangved&count_private=true&show_icons=true)
 
-![details](https://github-readme-stats.vercel.app/api/top-langs/?username=thangved&layout=compact)
-
 ## Used Languages
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
