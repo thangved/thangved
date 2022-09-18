@@ -4,6 +4,8 @@
 
 ![view](https://komarev.com/ghpvc/?username=thangved)
 
+![https://github-profile-trophy.vercel.app/?username=thangved&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=thangved&theme=gruvbox)
+
 ![github-start](https://github-readme-stats.vercel.app/api?username=thangved&count_private=true&show_icons=true)
 
 ## Used Languages
