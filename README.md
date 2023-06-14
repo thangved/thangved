@@ -6,8 +6,6 @@
 
 ![github-start](https://github-readme-stats.vercel.app/api?username=thangved&count_private=true&show_icons=true)
 
-<a href="https://app.daily.dev/thangved"><img src="https://api.daily.dev/devcards/c1113c3910d44c4683f59e631109d091.png?r=cbk" width="400" alt="Kim Minh Thắng's Dev Card"/></a>
-
 ## Used Languages
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
