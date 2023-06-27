@@ -17,19 +17,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
-## My Projects
-
-<https://w5team.com>
-
-<https://tools.w5team.com>
-
-<https://blog.w5team.com>
-
-<https://graph.w5team.com>
-
-<https://ctdl.w5team.com>
-
 ## Connects
 
 [![thangved](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/thangved)
