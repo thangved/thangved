@@ -10,6 +10,10 @@ jobs:
     name: Jobs to update data
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        name: Checkout
+        with:
+          fetch-depth: 0
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
