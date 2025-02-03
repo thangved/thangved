@@ -10,7 +10,7 @@
 
 Hi, My name is **Minh Thắng** - A Software Engineering
 
-You can visit my portfolio at https://profile.thangved.com
+You can visit my portfolio at <https://profile.thangved.com>
 
 ## Contact
 
