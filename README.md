@@ -14,6 +14,6 @@ You can visit my portfolio at https://profile.thangved.com
 
 ## Contact
 
-- Email: contact@thangved.com
-- Facebook: https://fb.com/thangved
-- Linkedin: https://www.linkedin.com/in/thangved
+- Email: <contact@thangved.com>
+- Facebook: <https://fb.com/thangved>
+- Linkedin: <https://www.linkedin.com/in/thangved>
