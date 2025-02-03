@@ -10,10 +10,10 @@
 
 Hi, My name is **Minh Thắng** - A Software Engineering
 
-You can visit my website at https://thangved.com
+You can visit my portfolio at https://profile.thangved.com
 
 ## Contact
 
-- Email: root@thangved.com
+- Email: contact@thangved.com
 - Facebook: https://fb.com/thangved
 - Linkedin: https://www.linkedin.com/in/thangved
